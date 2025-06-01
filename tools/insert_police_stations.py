@@ -13,7 +13,9 @@ from pathlib import Path
 
 # log uncaught exceptions
 def log_exceptions(type, value, tb):
-    for line in traceback.TracebackException(type, value, tb).format(chain=True):
+    exception_details = traceback.TracebackException(type, value, tb)
+
+    for line in exception_details.format(chain=True):
         log.exception(line)
 
     log.exception(value)
@@ -95,8 +97,8 @@ def insert_row(cur, row_dict):
 
     try:
         cur.execute(sql, (
-            id, name, city, zipcode, street, house_number,
-            telephone, fax, email, website, longitude, latitude, wkb_geometry
+            id, name, city, zipcode, street, house_number, telephone,
+            fax, email, website, longitude, latitude, wkb_geometry
         ))
 
         result = cur.fetchone()
@@ -140,7 +142,7 @@ def main(env, src, verbose, debug):
         log.basicConfig(format='%(levelname)s: %(message)s', level=log.DEBUG)
     if verbose:
         log.basicConfig(format='%(levelname)s: %(message)s', level=log.INFO)
-        log.info(f'set logging level to verbose')
+        log.info('set logging level to verbose')
     else:
         log.basicConfig(format='%(levelname)s: %(message)s')
 
