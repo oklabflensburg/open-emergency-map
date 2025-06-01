@@ -1,0 +1,265 @@
+id	name	city	zipcode	street	house_number	telephone	fax	email	website	longitude	latitude
+9092146	2. Polizeirevier Neumünster	Neumünster	24539	Altonaer Straße	101	+49 4321 945-1202	+49 4321 945-1205	Neumuenster.PRev02@polizei.landsh.de		9.966029127405154	54.07609500173512
+9092250	3. Polizeirevier Kiel	Kiel	24114	Von-der-Tann-Straße	34	+49 431 160-1310	+49 431 160-1319	Kiel.Prev03@polizei.landsh.de		10.123243886338098	54.31637046286201
+9092407	3. Polizeirevier Lübeck	Lübeck, Hansestadt	23566	Meesenring	9	+49 451 131-6345	+49 451 131-6319	luebeck-prev03@polizei.landsh.de		10.719903265647932	53.865113206277854
+9092804	4. Polizeirevier Kiel	Kiel	24143	Werftstraße	217	+49 431 160-1410	+49 431 160-1419	Kiel.Prev04@polizei.landsh.de		10.139483723164112	54.31080664144833
+9092998	Kriminalpolizeistelle Bad Schwartau	Bad Schwartau	23611	Eutiner Ring	4	+49 451 220750	+49 451 2207518	badschwartau.kpst@polizei.landsh.de		10.695612432574459	53.92010588611225
+9093028	Kriminalpolizeistelle Eckernförde	Eckernförde	24340	Schleswiger Straße	19	+49 4351 89212-600	+49 4351 89212-605	Eckernfoerde.KPSt@polizei.landsh.de		9.836552270297556	54.468819913013
+9093041	Kriminalpolizeistelle Elmshorn	Elmshorn	25335	Moltkestraße	26	+49 4121 803-0	+49 4121 803-208	Elmshorn.KPSt@polizei.landsh.de		9.666249002136947	53.759136607778125
+9093056	Kriminalpolizeistelle Geesthacht	Geesthacht	21502	Markt	11	+49 4152 80030	+49 4152 9886448590	Geesthacht.KPSt@polizei.landsh.de		10.374897940557043	53.430439815453326
+9093069	Kriminalpolizeistelle Niebüll	Niebüll	25899	Gather Landstraße	75	+49 4661 4011-0	+49 431 9886443590	Niebuell.KPSt@polizei.landsh.de		8.842765554389464	54.79231542639093
+9093082	Kriminalpolizeistelle Norderstedt	Norderstedt	22850	Europaallee	24	+49 40 52806-0	+49 40 52806-109	Norderstedt.KPSt@polizei.landsh.de		9.98733761152911	53.6851677391308
+9093097	Kriminalpolizeistelle Oldenburg	Oldenburg in Holstein	23758	Hoheluftstraße	20	+49 4361 1055-0	+49 431 9886446693	oldenburg.kpst@polizei.landsh.de		10.87920730259374	54.29301518936885
+9093112	Kriminalpolizeistelle Sylt	Sylt	25980	Stephanstraße	14	+49 4651 7047-0	+49 431 9886443595	Sylt.KPSt@polizei.landsh.de		8.3121553	54.90766688
+9093125	Kriminalinspektion Bad Oldesloe	Bad Oldesloe	23843	Berliner Ring	27	+49 4531 501801	+49 4531 501-809	BadOldesloe.KI@polizei.landsh.de		10.380081840342886	53.81118437504793
+9093138	Kriminalpolizeistation Bad Segeberg	Bad Segeberg	23795	Dorfstraße	16 - 18	+49 4551 884-3105	+49 4551 884-2029	BadSegeberg.KPSt@polizei.landsh.de		10.305766150108893	53.947611608786524
+9093153	Kriminalpolizeistelle Eutin	Eutin	23701	Lübecker Straße	35	+49 4521 801-0	+49 4521 801-251	eutin.kpst@polizei.landsh.de		10.618873267107109	54.13417819199901
+9093181	Kriminalpolizeistelle Heide	Heide	25746	Markt	59	+49 481 94-0	+49 431 9886444600	Heide.KPST@polizei.landsh.de		9.091523569965673	54.195836563540865
+9093196	Kriminalpolizeistelle Husum	Husum	25813	Poggenburgstraße	9	+49 4841 830-0	+49 431 9886443500	Husum.KPSt@polizei.landsh.de		9.053534941449664	54.472816773105436
+9093224	Kriminalpolizeistelle Kiel	Kiel	24103	Blumenstraße	2 - 4	+49 431 160-3322	+49 431 160-3119	Kiel.KPSt@polizei.landsh.de		10.130254903962124	54.32691369616649
+9093252	Kriminalinspektion Neumünster	Neumünster	24539	Alemannenstraße	14-18	+49 4321 945-1504	+49 4321 945-1555	Neumuenster.ki@polizei.landsh.de		9.987118065002447	54.07528115120775
+9093265	Kriminalpolizeistation Pinneberg	Pinneberg	25421	Elmshorner Straße	40	+49 4101 202-0	+49 4101 202-308	Pinneberg.KI@polizei.landsh.de		9.794395562998542	53.66669800005197
+9093280	Kriminalpolizeistellestelle Plön	Plön	24306	Hamburger Straße	30	+49 4522 5005-201	+49 4522 5005-205	Ploen.KPSt@polizei.landsh.de		10.417564392398708	54.15847361761856
+9093293	Kriminalpolizeistelle Ratzeburg	Ratzeburg	23909	Seestraße	12 - 14	+49 4541 809-0	+49 4541 809-3519	Ratzeburg.KPSt@polizei.landsh.de		10.776757947911053	53.69800715019567
+9093306	Kriminalpolizeistelle Rendsburg	Rendsburg	24768	Moltkestraße	9	+49 4331 208-0	+49 4331 208-304	Rendsburg.KPSt@polizei.landsh.de		9.667157184327099	54.29667826688536
+9093319	Kriminalpolizeistelle Schleswig	Schleswig	24837	Friedrich-Ebert-Straße	8	+49 4621 84-0	+49 431 988644-2600	Schleswig.KPSt@polizei.landsh.de		9.551423198050463	54.52053495811378
+9093332	Kriminalpolzeistelle Neustadt	Neustadt in Holstein	23730	Lienaustraße	12	+49 4561 615-0	+49 4561 615-19	Neustadt.KPSt@polizei.landsh.de		10.80760869374771	54.106299323576465
+9093780	4. Polizeirevier Lübeck	Lübeck, Hansestadt	23560	Possehlstraße	4	+49 451 131-6445	+49 451 131-6419	luebeck.prev04@polizei.landsh.de		10.680856458798626	53.85256360437036
+9093825	Landeskriminalamt	Kiel	24116	Mühlenweg	166	+49 431 160-0	+49 431 160-4118	Kiel.LKA111@polizei.landsh.de		10.10685814821424	54.33198962849225
+9094243	Polizei-Autobahn und Bezirksrevier Bad Oldesloe (FD BAB)	Bad Oldesloe	23843	Steinkamp	3	+49 4531 1706-0	+49 4531 1706-19	BadOldesloe.PABR@polizei.landsh.de		10.422492080738744	53.78479853371966
+9094256	Polizei-Autobahnrevier Elmshorn	Elmshorn	25337	Wittenberger Straße	12	+49 4121 4092-0	+49 4121 4092-10	Elmshorn.PABR@polizei.landsh.de		9.707182812167378	53.74497050485426
+9094271	Polizei-Autobahnrevier Mölln	Elmenhorst (Herzogtum-Lauenburg)	21493	Post Schwarzenbek		+49 4156 295-0	+49 4156 295-19			10.537081595220497	53.545426876305356
+9094280	Polizei-Autobahn- und Bezirksrevier Scharbeutz	Scharbeutz	23684	Breitenkamp	127	+49 4524 7077-0	+49 4524 7077-119	scharbeutz.pabr@polizei.landsh.de		10.72603169	54.03554329
+9094295	Polizei-Autobahn- und Bezirksrevier Nord (FD BAB; Schleswig-Schuby)	Schuby	24850	Lürschauer Weg	1	+49 4621 9452-0	+49 431 9886442890	BAB.Schleswig-PABR@polizei.landsh.de		9.482781	54.524381
+9094308	Polizeistation Neumünster-Mitte	Neumünster	24539	Parkstraße	20	+49 4321 690360	+49 4321 69036119	Mitte.PSt.Neumuenster@polizei.landsh.de		10.618873267107109	54.13417819199901
+9094336	Polizei-Bezirksrevier Heide	Heide	25746	Markt	59	+49 481 94-0	+49 481 94-455	Heide.PBR@polizei.landsh.de		9.091523569965673	54.195836563540865
+9094351	Polizei-Autobahn- und Bezirksrevier Nord (FD HUS)	Husum	25813	Dieselstraße	8	+49 4841 9612-0	+49 4841 961248			9.077916023018343	54.48819126375979
+9094379	Polizei-Bezirksrevier Kiel	Kiel	24116	Mühlenweg	166	+49 431 160-1502	+49 431 160-1519	Kiel.PBR@polizei.landsh.de		10.10685814821424	54.33198962849225
+9094435	Polizei-Autobahn-Bezirksrevier Ratzeburg	Ratzeburg	23909	An der Autobahn		+49 4541 809-1300	+49 4541 809-1319	Ratzeburg.PABR@polizei.landsh.de		10.776757947911053	53.69800715019567
+9094448	Polizei-Autobahn- und Bezirksrevier Nord (FD Schleswig)	Schleswig	24837	Friedrich-Ebert-Straße	8	+49 4621 84-0	+49 431 988644-2795	FDBezirk.Schleswig.PABR@polizei.landsh.de		9.551423198050463	54.52053495811378
+9094461	Polizeirevier Ahrensburg	Ahrensburg	22926	An der Reitbahn	5	+49 4102 809-0	+49 4102 809-119	Ahrensburg.PR@polizei.landsh.de		10.234220105966973	53.67176766323656
+9094474	PolizeistationBad Bramstedt	Bad Bramstedt	24576	Altonaer Straße	2	+49 4192 39110	+49 4192 391119	BadBramstedt.PSt@polizei.landsh.de		9.877922772217053	53.91745758433122
+9094489	Polizei-Zentralstation Bad Oldesloe	Bad Oldesloe	23843	Berliner Ring	27	+49 4531 501-0	+49 4531 501-519			10.380081840342886	53.81118437504793
+9094502	Polizeirevier Bad Schwartau	Bad Schwartau	23611	Eutiner Ring	4	+49 451 220750	+49 451 2207519	BadSchwartau.PR@polizei.landsh.de		10.695612432574459	53.92010588611225
+9094517	Polizeirevier Bad Segeberg	Bad Segeberg	23795	Dorfstraße	16-18	+49 4551 884-3110	+49 4551 884-3119	BadSegeberg.Prev@polizei.landsh.de		10.304886525677649	53.948074926943484
+9094532	Polizeistation Bargteheide	Bargteheide	22941	Alte Landstraße	68	+49 4532 7071-0	+49 4532 7071-19	Bargteheide.PSt@polizei.landsh.de		10.252894281399797	53.72757887958069
+9094545	Polizeirevier Bordesholm	Bordesholm	24582	Heinrich-Rix-Straße	1	+49 4322 9610-0	+49 4322 9610-20	Bordesholm.PR@polizei.landsh.de		10.02925877206058	54.17393883882823
+9094560	Polizeistation Bredstedt	Bredstedt	25821	Markt	33	+49 4671 4044900	+49 431 9886443840	Bredstedt.PSt@polizei.landsh.de		8.963083708383117	54.618345782624694
+9094575	Polizeirevier Brunsbüttel	Brunsbüttel	25541	Emil-von-Behring-Straße	1	+49 4852 60240	+49 4852 602419	Brunsbuettel.PR@polizei.landsh.de		9.120933145100624	53.89952051578007
+9094590	Polizeistation Burg (Dithmarschen)	Burg (Dithmarschen)	25712	Holzmarkt	7	+49 4825 7799880	+49 4825 77998819	Burg.PSt@polizei.landsh.de		9.262126487499414	53.997902134000164
+9094603	Polizeistation Fehmarn	Fehmarn	23769	Kaestnerstraße	2 a	+49 4371 503080	+49 4371 5030819	fehmarn.pst@polizei.landsh.de		11.193441374256258	54.441572678792156
+9094618	Polizeistation Büsum	Büsum	25761	Vereinsallee	28	+49 4834 95200	+49 4834 952029	Buesum.PST@polizei.landsh.de		8.860496803662999	54.133783179374596
+9094633	Polizeirevier Eckernförde	Eckernförde	24340	Gerichtstraße	4	+49 4351 908-0	+49 4351 908-105	Eckernfoerde.PR@polizei.landsh.de		9.836552270297556	54.468819913013
+9094648	Polizeirevier Eutin	Eutin	23701	Lübecker Straße	35	+49 4521 801-190	+49 4521 801-195	Eutin.PR@polizei.landsh.de		10.618873267107109	54.13417819199901
+9094663	Polizeistation Friedrichstadt	Friedrichstadt	25840	Lohgerberstraße	33       a	+49 4881 2869920	+49 431 9886443830	Friedrichstadt.PSt@polizei.landsh.de		9.09035949070276	54.375334523755406
+9094676	Polizeirevier Geesthacht	Geesthacht	21502	Markt	11	+49 4152 80030	+49 4152 8003-119	Geesthacht.PR@poliizei.landsh.de		10.374897940557043	53.430439815453326
+9094689	Polizeistation Gettorf	Gettorf	24214	Hochkamp	1 - 3	+49 4346 2965000	+49 4346 29650029	Gettorf.PSt@polizei.landsh.de		9.978961089004647	54.407669994869906
+9094704	Polizeistation Glinde	Glinde	21509	Oher Weg	1	+49 40 710903-0	+49 40 71090319	Glinde.PSt@polizei.landsh.de		10.214434068029684	53.541107765762476
+9094717	Polizeistation Glücksburg	Glücksburg (Ostsee)	24960	Collenburger Straße	33	+49 4631 4050120	+49 431 9886442860	Gluecksburg.PSt@polizei.landsh.de		9.545762267422003	54.837887430411314
+9094730	Polizeistation Glückstadt	Glückstadt	25348	Königstraße	39	+49 4124 3011-0	+49 4124 3011-19	Glueckstadt.PST@polizei.landsh.de		9.418537285662609	53.78737868467552
+9094745	Polizeistation Harrislee	Harrislee	24955	Geheimrat-Dr.-Schaedel-Straße	20	+49 461 707095	+49 431 988644-2850	harrislee-pst@polizei.landsh.de		9.394334008367233	54.79938250115723
+9094760	Polizeirevier Heide	Heide	25746	Markt	59	+49 481 94-0	+49 481 94-455	Heide.PR@polizei.landsh.de		9.091523569965673	54.195836563540865
+9094775	Polizeirevier Heiligenhafen	Heiligenhafen	23774	Lauritz-Maßmann-Straße	13	+49 4362 50370	+49 4362 503719	Heiligenhafen.pr@polizei.landsh.de		10.975401324585663	54.37364935985502
+9094788	Polizeistation Henstedt-Ulzburg	Henstedt-Ulzburg	24558	Maurepassstraße	26	+49 4193 9913-0	+49 4193 9913-19	Henstedt-Ulzburg.PSt@polizei.landsh.de		9.988234422239453	53.79016325230442
+9094803	Polizeirevier Mittelholstein	Hohenwestedt	24594	Friedrichstraße	20	+49 4871 779280	+49 4871 7792819	Mittelholstein.PR@polizei.landsh.de		9.652063311202593	54.09165888123283
+9094818	Polizeirevier Husum	Husum	25813	Poggenburgstraße	9	+49 4841 830-0	+49 431 9886443820	Husum.PR@polizei.landsh.de		9.053534941449664	54.472816773105436
+9094831	Polizeirevier Kaltenkirchen	Kaltenkirchen	24568	Hamburger Straße	62	+49 4191 3088-0	+49 4191 3088-28	Kaltenkirchen.PR@polizei.landsh.de		9.966339378719935	53.83377222057115
+9094846	Polizeirevier Kappeln	Kappeln	24376	Gerichtsstraße	1	+49 4642 96559-01	+49 431 988644-2830	Kappeln.PR@polizei.landsh.de		9.926609172601362	54.661687449288166
+9094859	Polizeistation Kellinghusen	Kellinghusen	25548	Hauptstraße	31	+49 4822 2098-0	+49 4822 2098-30	Kellinghusen.PST@polizei.landsh.de		9.722893857243331	53.94891842723546
+9094874	Polizeistation Kronshagen	Kronshagen	24119	Kopperpahler Allee	61	+49 431 16017300	+49 431 9886347850	Kronshagen.PSt@polizei.landsh.de		10.087249336435784	54.33743927118238
+9094889	Polizeistation Kropp	Kropp	24848	Am Markt	10 a	+49 4624 450668-0	+49 431 988644-2820	Kropp.PSt@polizei.landsh.de		9.50865562204055	54.4124810996098
+9094902	Polizeistation Lauenburg/Elbe	Lauenburg/Elbe	21481	Alte Wache	14	+49 4153 3071-0	+49 4153 3071-19	Lauenburg.PSt@polizei.landsh.de		10.555392	53.373655
+9094915	Polizeistation Leck	Leck	25917	Marktstraße	7-9	+49 4662 891260	+49 431 9886443860	Leck.PSt@polizei.landsh.de		8.971343769931062	54.77237083583581
+9094928	Polizeistation Lunden	Lunden	25774	Nordbahnhofstraße	7	+49 4882 4299890	+49 4882 42998919	Lunden.PST@polizei.landsh.de		9.024900400229175	54.33194601449535
+9094943	Polizeistation Lütjenburg	Lütjenburg	24321	Gildeplatz	6	+49 4381 906331	+49 4381 906333	Luetjenburg.PSt@polizei.landsh.de		10.587183546453433	54.292497226018455
+9094956	Polizeistation Marne	Marne	25709	Bahnhofstraße	70	+49 4851 9507-0	+49 4851 9507-18	Marne.PST@polizei.landsh.de		9.02023944	53.9538151
+9094971	Polizeistation Meldorf	Meldorf	25704	Nordermarkt	3 a	+49 4832 20350	+49 4832 203529	Meldorf.PST@polizei.landsh.de		9.071037344029646	54.09094273203525
+9094986	Polizeistation Mölln	Mölln	23879	Mühlenplatz	7	+49 4542 8099-0	+49 4542 8099-19	Moelln.PSt@polizei.landsh.de		10.693078154871701	53.62967816154115
+9094999	Polizeirevier Neustadt in Holstein	Neustadt in Holstein	23730	Lienaustraße	12	+49 4561 615-0	+49 4561 615-19	neustadt.pr@polizei.landsh.de		10.80760869374771	54.106299323576465
+9095014	Polizeirevier Niebüll	Niebüll	25899	Gather Landstraße	75	+49 4661 4011-0	+49 431 9886443850	Niebuell.PR@polizei.landsh.de		8.842765554389464	54.79231542639093
+9095027	Polizeistation Nortorf	Nortorf (Rendsburg-Eckernförde)	24589	Kieler Straße	19	+49 4392 4710-0	+49 4392 4710-27	Nortorf.PSt@polizei.landsh.de		9.859607220301351	54.16950677554912
+9095042	Polizeistation Oldenburg in Holstein	Oldenburg in Holstein	23758	Hoheluftstraße	20	+49 4361 10550	+49 4361 105519	Oldenburg.pst@polizei.landsh.de		10.87920730259374	54.29301518936885
+9095057	Polizeirevier Plön	Plön	24306	Hamburger Straße	30	+49 4522 5005-143	+49 4522 5005-130	Ploen.PR@polizei.landsh.de		10.41129458158724	54.156925559365924
+9095070	Polizeistation Preetz	Preetz	24211	Gasstraße	11	+49 4342 1077-0	+49 4342 107766	Preetz.PSt@polizei.landsh.de		10.278302870811196	54.232921232735265
+9095083	Polizeistation Schwentinental	Schwentinental	24223	Lise-Meitner-Straße	13	+49 4307 82360	+49 4307 823619	Schwentinental.PSt@polizei.landsh.de		10.228252247038018	54.29169363955678
+9095096	Polizeistation Ratzeburg	Ratzeburg	23909	Seestraße	12 - 14	+49 4541 809-1145	+49 4541 809-1119	Ratzeburg.PR@polizei.landsh.de		10.776757947911053	53.69800715019567
+9095109	Polizeirevier Reinbek	Reinbek	21465	Sophienstraße	5	+49 40 727707-0	+49 40 727707-119	Reinbek.PR@polizei.landsh.de		10.252024210450074	53.50860589499304
+9095122	Polizeirevier Schleswig	Schleswig	24837	Friedrich-Ebert-Straße	8	+49 4621 84-0	+49 431 988644-2810	Schleswig.PR@polizei.landsh.de		9.551423198050463	54.52053495811378
+9095135	Polizeistation Schönberg	Schönberg (Holstein)	24217	Knüll	13	+49 4344 29150	+49 4344 291521	Schoenberg.PSt@polizei.landsh.de		10.372786232407579	54.39479136799052
+9095148	Polizeirevier Schwarzenbek	Schwarzenbek	21493	Compestraße	10	+49 4151 8894-0	+49 4151 8894-19	Schwarzenbek.PR@polizei.landsh.de		10.47918788643361	53.503720380739416
+9095161	Polizeistation Tarp	Tarp	24963	Dorfstraße	22	+49 4638 89410	+49 431 9886442840	Tarp.PSt@polizei.landsh.de		9.40570642699392	54.664208571066396
+9095176	Polizeistation Tönning	Tönning	25832	Schloßgarten	1	+49 4861 6170660	+49 431 9886443810	Toenning.PSt@polizei.landsh.de		8.941227249357212	54.31500526406468
+9095189	Polizeistation Wahlstedt	Wahlstedt	23812	Segeberger Straße	12	+49 4554 7051-0	+49 4554 7051-23	Wahlstedt.PSt@polizei.landsh.de		10.214849224472196	53.95191351892834
+9095204	Polizeirevier Sylt	Sylt	25980	Stephanstraße	14	+49 4651 7047-0	+49 431 9886443880	Sylt.PR@polizei.landsh.de		8.3121553	54.90766688
+9095217	Polizeistation Wilster	Wilster	25554	Etatsrätin-Doos-Straße	22	+49 4823 9227-0	+49 4823 922729	Wilster.PSt@polizei.landsh.de		9.37457187430934	53.92447679230739
+9095232	Polizeistation Wyk auf Föhr	Wyk auf Föhr	25938	Hafendeich	15	+49 4681 58980	+49 431 9886443870	Wyk.PSt@polizei.landsh.de		8.572211899097677	54.69265317865282
+9095260	Polizei-Autobahn- und Bezirksrevier Bad Oldesloe (FD BZ)	Bad Oldesloe	23843	Berliner Ring	27	+49 4531 501521	+49 4531 501-539	Bezirk.BadOldesloe.PABR@polizei.landsh.de		10.380081840342886	53.81118437504793
+9095301	Polizeibezirksrevier Rendsburg	Rendsburg	24768	Helgoländer Straße	34-40	+49 4331 280-202	+49 4331 280-208	Rendsburg.PBRev@polizei.landsh.de		9.69269433656348	54.308955430066405
+9095314	Polizeidirektion für Aus- und Fortbildung und für die Bereitschaftspolizei	Eutin	23701	Hubertushöhe		+49 4521 81-0	+49 4521 81-234	Eutin.PDAFB@polizei.landsh.de		10.59916897	54.15177089
+9095329	Polizeidirektion Kiel	Kiel	24103	Gartenstraße	7	+49 431 160-0	+49 431 160-2029	Kiel.PD@polizei.landsh.de		10.129403242773417	54.32601335467837
+9095342	Polizeidirektion Flensburg	Flensburg	24937	Norderhofenden	1	+49 461 484-0	+49 431 988644-2000	Flensburg.PD@polizei.landsh.de		9.436241902930112	54.78728004688673
+9095357	Polizeidirektion Lübeck	Lübeck, Hansestadt	23560	Possehlstraße	4	+49 451 131-0	+49 451 131-1019	Luebeck.PD@polizei.landsh.de		10.680856458798626	53.85256360437036
+9095372	Polizeidirektion Itzehoe	Itzehoe	25524	Große Paaschburg	66	+49 4821 602-0	+49 4821 602-2039	Itzehoe.PD@polizei.landsh.de		9.523770928121149	53.92036429481577
+9095387	Polizeidirektion Bad Segeberg	Bad Segeberg	23795	Dorfstraße	14 - 16	+49 4551 884-0	+49 4551 884-2019	BadSegeberg.PD@polizei.landsh.de		10.304886525677649	53.948074926943484
+9095417	Polizeidirektion Neumünster	Neumünster	24539	Alemannenstraße	14 - 18	+49 4321 945-0	+49 4321 945-2029	Neumuenster.PD@polizei.landsh.de		9.986802658204555	54.06058662705287
+9095432	Polizeidirektion Ratzeburg	Ratzeburg	23909	Seestraße	12 - 14	+49 4541 809-0	+49 4541 809-2049			10.776757947911053	53.69800715019567
+9095445	Polizeirevier Elmshorn	Elmshorn	25335	Moltkestraße	26	+49 4121 803-0	+49 4121 803-108	Elmshorn.Prev@polizei.landsh.de		9.666249002136947	53.759136607778125
+9095460	Polizeirevier Itzehoe	Itzehoe	25524	Große Paaschburg	66	+49 4821 602-0	+49 4821 602-5319	Itzehoe.PR@polizei.landsh.de		9.523770928121149	53.92036429481577
+9095475	Polizeirevier Norderstedt	Norderstedt	22850	Europaallee	24	+49 40 52806-0	+49 40 52806-209	Norderstedt.Prev@polizei.landsh.de		9.98733761152911	53.6851677391308
+9095490	Polizeirevier Pinneberg	Pinneberg	25421	Elmshorner Straße	40	+49 4101 202-0	+49 4101 202-108	Pinneberg.Prev@polizei.landsh.de		9.794395562998542	53.66669800005197
+9095505	Polizeirevier Rellingen	Rellingen	25462	Halstenbeker Weg	85	+49 4101 498-0	+49 4101 498-108	Rellingen.prev@polizei.landsh.de		9.841369141212454	53.644152601357426
+9095520	Polizeirevier Rendsburg	Rendsburg	24768	Moltkestraße	9	+49 4331 208-0	+49 4331 208-405	Rendsburg.PRev@polizei.landsh.de		9.667157184327099	54.29667826688536
+9095535	Polizeirevier Wedel (Holstein)	Wedel	22880	Gorch-Fock-Straße	9 - 11	+49 4103 5018-0	+49 4103 5018-108	Wedel.PR@polizei.landsh.de		9.702562703565755	53.58008682821403
+9095550	Polizeistation Achterwehr	Achterwehr	24239	Inspektor-Weimar-Weg	17	+49 4340 4119910	+49 4340 41199119	Achterwehr.PSt@polizei.landsh.de		9.967475967184	54.314575748013105
+9095565	Polizeistation Ahrensbök	Ahrensbök	23623	Poststraße	3	+49 4525 7979910	+49 4525 79799119	Ahrensboek.pst@polizei.landsh.de		10.570507801263977	54.012584746778614
+9095580	Polizeistation Albersdorf	Albersdorf	25767	Bahnhofstraße	20	+49 4835 22319-0	+49 431 9886444861	Albersdorf.PST@polizei.landsh.de		9.289004463463629	54.145663008912706
+9095595	Polizeistation Altenholz	Altenholz	24161	An der Feuerwache	3	+49 431 22000100	+49 431 220001029	Altenholz.PSt@polizei.landsh.de		10.123669323034743	54.40484440608671
+9095623	Polizeistation Ammersbek	Ammersbek	22949	Grootkoppel	1	+49 40 356226470	+49 40 3562264719	Ammersbek.PSt@polizei.landsh.de		10.170562684502066	53.69309633106513
+9095662	Polizeistation Ascheffel	Ascheffel	24358	Hüttener Weg	10	+49 4353 4799960	+49 4353 47999619	Ascheffel.PSt@polizei.landsh.de		9.709269022971515	54.4311007931858
+9095677	Polizeistation Aukrug	Aukrug	24613	Heinkenborsteler Straße	9	+49 4873 2104950	+49 4873 21049519	Aukrug.PSt@polizei.landsh.de		9.789031970976602	54.08775357958236
+9095692	Polizeistation Aumühle	Aumühle	21521	Bergstraße	9	+49 4104 9139870	+49 4104 91398719	Aumuehle.PSt@polizei.landsh.de		10.303093690207792	53.5229417128333
+9095705	Polizeistation Bargfeld-Stegen	Bargfeld-Stegen	23863	Mittelweg	6	+49 4532 1705	+49 4532 265689			10.186849730814682	53.76757342492406
+9095731	Polizeistation Barmstedt	Barmstedt	25355	Reichenstraße	38	+49 4123 64808-0	+49 4123 68408-9	Barmstedt.PSt@polizei.landsh.de		9.775992045251497	53.78932304129073
+9095746	Polizeistation Barsbüttel	Barsbüttel	22885	Hauptstraße	38e	+49 40 635980504	+49 40 359805069	Barsbuettel.PSt@polizei.landsh.de		10.162323098236069	53.568783070564976
+9095772	Polizeistation Berkenthin	Berkenthin	23919	Oldesloer Straße	3	+49 4544 7349990	+49 4544 73499919	Berkenthin.PSt@polizei.landsh.de		10.645917624575093	53.73367388223527
+9095785	Polizeistation Blankensee	Lübeck, Hansestadt	23562	Blankenseer Straße	101	+49 451 1317480	+49 431 9886446741	blankensee.pst@polizei.landsh.de		10.701509762886076	53.80533797736232
+9095800	Polizeistation Böklund	Böklund	24860	Toft	7	+49 4623 9089920	+49 4623 90899219	Boecklund.PSt@polizei.landsh.de		9.582114685058011	54.60590700835807
+9095826	Polizeistation Bönningstedt	Bönningstedt	25474	Kieler Straße	103	+49 40 35627520	+49 40 356275219	Boenningstedt.PST@polizei.landsh.de		9.902708	53.670378
+9095841	Polizeistation Boostedt	Boostedt	24598	Twiete	9	+49 4393 76907-0	+49 4393 979515	Boostedt.PSt@polizei.landsh.de		10.0253826922456	54.00745562094708
+9095880	Polizeistation Brande-Hörnerkirchen	Brande-Hörnerkirchen	25364	Rosentwiete	4	+49 4127 9562	+49 4127 9564	Brande-Hoernerkirchen.PSt@polizei.landsh.de		9.699159873761898	53.851590781858526
+9095893	Polizeistation Breitenfelde	Breitenfelde	23881	Pommernring	25	+49 4542 7378	+49 4542 838481			10.63963881557755	53.60826751532239
+9095919	Polizeistation Büchen	Büchen	21514	Amtsplatz	1	+49 4155 49890	+49 4155 498919	Buechen.PSt@polizei.landsh.de		10.62026769744774	53.476480495587275
+9095932	Polizeistation Busdorf	Busdorf	24866	Panellenweg	5	+49 4621 84500	+49 431 9886442824	Busdorf.PSt@polizei.landsh.de		9.553341826996503	54.49255714466905
+9095945	Polizeistation Damp	Damp	24351	Auf der Höhe	12	+49 4352 3074000	+49 4352 30740019	Damp.PSt@polizei.landsh.de		9.957962527915157	54.570220370410375
+9095960	Polizeistation Dassendorf	Dassendorf	21521	Am Wendel	2 a	+49 4104 960756	+49 4104 960758			10.360507264244893	53.49344193015239
+9095973	Polizeistation Dietrichsdorf	Kiel	24149	Ivensring	27	+49 431 160-1452	+49 431 160-1469	Dietrichsdorf.PSt@polizei.landsh.de		10.190166878747547	54.33247954783718
+9095999	Polizeistation Eichholz	Lübeck, Hansestadt	23566	Koppelbarg	2	+49 451 1317360	+49 431 9886448686	eichholz.pst@polizei.landsh.de		10.799024361992526	53.887936113973545
+9096014	Polizeistation Einfeld	Neumünster	24536	Einfelder Straße	59	+49 4321 52703	+49 4321 690494	Einfeld.PSt@polizei.landsh.de		9.99136096973124	54.12348552911654
+9096027	Polizeistation Ellerau	Ellerau	25479	Brombeerweg	110	+49 4106 9769700	+49 4106 976970-19	Ellerau.PSt@polizei.landsh.de		9.939366360249862	53.75630947184348
+9096053	Polizeistation Engelsby/Tarup	Flensburg	24943	Franz-Schubert-Hof	21	+49 461 4844210	+49 431 988644-2725	Flensburg-Engelsby-Tarup.Pst@polizei.landsh.de		9.469437540606336	54.79024868146877
+9096066	Polizeistation Erfde	Erfde	24803	Beekstraße	2	+49 4333 4399940	+49 431 9886442822	Erfde.PSt@polizei.landsh.de		9.318447163514382	54.30878000911582
+9096105	Polizeistation Flintbek	Flintbek	24220	Heitmannskamp	2	+49 4347 9029680	+49 4347 90296819	Flintbek.PSt@polizei.landsh.de		10.064690186574918	54.2428121315604
+9096118	Polizeistation Fockbek	Fockbek	24787	Rendsburger Straße	37	+49 4331 208120	+49 4331 33226-69	Fockbek.PSt@polizei.landsh.de		9.603232193143858	54.30257138256776
+9096144	Polizeistation Friedrichsort	Kiel	24159	Fritz-Reuter-Straße	94	+49 431 160-1172	+49 431 160-1189	Friedrichsort.PSt@polizei.landsh.de		10.16984390188149	54.39553964578254
+9096157	Polizeistation Friesischer Berg/Westliche Höhe	Flensburg	24937	Thomas-Mann-Straße	22	+49 461 484-4260	+49 431 988644-2728	Flensburg-FriesischerBerg.PSt@polizei.landsh.de		9.418305995231552	54.780464057663885
+9096170	Polizeistation Neumünster-Südost, Zweigstelle Gadeland	Neumünster	24534	Krogredder	2	+49 4321 945250	+49 431 9886447712	nms.suedost..PSt@polizei.landsh.de		10.017279001588792	54.05291550224613
+9096183	Polizeistation Garding	Garding	25836	Osterende	10	+49 4862 2174890	+49 431 9886443812	Garding.PSt@polizei.landsh.de		8.783718945799302	54.33077689841562
+9096209	Polizeistation Geschendorf	Geschendorf	23815	Dorfstraße	44	+49 4553 710	+49 4553 15265	Geschendorf.PSt@polizei.landsh.de		10.443137740649602	53.921759817482005
+9096222	Polizeistation Grömitz	Grömitz	23743	Gildestraße	1	+49 4562 22000	+49 4562 2200-20	groemitz.pst@polizei.landsh.de		10.952361832580278	54.147460017820045
+9096263	Polizeistation Großenbrode	Großenbrode	23775	Strandstraße	2 a	+49 4367 310	+49 4367 717732	Grossenbrode.PSt@polizei.landsh.de		11.084547033195195	54.36891532136215
+9096276	Polizeistation Großhansdorf	Großhansdorf	22927	Kortenkamp	18	+49 4102 4565-0	+49 4102 4546-119	Grosshansdorf.PSt@polizei.landsh.de		10.281063163830899	53.64827857978477
+9096289	Polizeistation Grube	Grube	23749	Hauptstraße	69	+49 4364 7669920	+49 4364 76699219	Grube.PSt@polizei.landsh.de		11.035746386472306	54.228401601289896
+9096302	Kriminalpolizeistation Ahrensburg	Ahrensburg	22926	An der Reiterbahn	5	+49 4102 809-0	+49 4102 809203	Ahrensburg.KPSt@polizei.landsh.de		10.47918788643361	53.503720380739416
+9096328	Polizeistation Handewitt	Handewitt	24983	Hauptstraße	9	+49 4608 6061370	+49 431 988644-2851	Handewitt.PSt@poliziei.landsh.de		9.324320277105333	54.765593242604815
+9096341	Polizeistation Hanerau-Hademarschen	Hanerau-Hademarschen	25557	Lindenstraße	2 a	+49 4872 5229930	+49 4872 52299319	Hanerau-Hademarschen.PSt@polizei.landsh.de		9.42110809317967	54.11988603448143
+9096384	Polizeistation Hassee	Kiel	24113	Rendsburger Landstraße	206	+49 431 160-1352	+49 431 160-1369	Hassee.PSt@polizei.landsh.de		10.113217306521896	54.30132477160224
+9096397	Polizeistation Hattstedt	Hattstedt	25856	Amtsweg	10	+49 4846 2079950	+49 431 9886443834	Hattstedt.PSt@polizei.landsh.de		9.0291287	54.52481907
+9096410	Polizeistation Heikendorf	Heikendorf	24226	Grasweg	2	+49 431 1601710	+49 431 1601719	Heikendorf.PSt@polizei.landsh.de		10.21319667694874	54.37254161396564
+9096473	Polizeistation Hohenlockstedt	Hohenlockstedt	25551	Kieler Straße	55	+49 4826 3767570	+49 4826 675719	Hohenlockstedt.PST@polizei.landsh.de		9.62088857891518	53.96415480343546
+9096529	Polizeistation Holtenau	Kiel	24159	Kanalstraße	46	+49 431 361165	+49 431 3645487	Holtenau.PSt@polizei.landsh.de		10.144359829955109	54.36960018162906
+9096542	Polizeistation Garbek	Wensin	23827	Segeberger Straße	3	+49 4559 1883540	+49 4559 18835419	Garbek.PSt@polizei.landsh.de		8.292362405170044	54.756139244430585
+9096555	Polizeistation Horst (Holstein)	Horst (Holstein)	25358	Wilhelm-Busch-Weg	7 - 9	+49 4126 6299930	+49 4126 62999319	Horst.PST@polizei.landsh.de		9.612278119225548	53.81277509997187
+9096570	Polizeistation Husby	Husby	24975	Flensburger Straße	40-42	+49 4634 939798-0	+49 431 9886442863	Husby.PSt@polizei.landsh.de		9.527873924992672	54.74931512481758
+9096583	Polizeistation Hutzfeld	Bosau	23715	Wöbser Straße	4 - 6	+49 4527 510	+49 4527 972531	Hutzfeld.PSt@polizei.landsh.de		10.47496376727612	54.08904395119166
+9096609	Polizeistation Jevenstedt	Jevenstedt	24808	Schwaber Straße	18	+49 4337 295124	+49 4337 913867	Jevenstedt.PSt@polizei.landsh.de		9.672454250132798	54.23465279320245
+9096672	Polizeistation Krempe	Krempe	25361	Süderstraße	40	+49 4824 8719400	+49 4824 8719419	Krempe.PSt@polizei.landsh.de		9.486568600728235	53.83459237350069
+9096698	Polizeistation Kücknitz	Lübeck, Hansestadt	23569	Kücknitzer Hauptstraße	1	+49 451 1317300	+49 431 9886446732	kuecknitz.pst@polizei.landsh.de		10.805060186001896	53.912421442834294
+9096713	Polizeistation Kummerfeld	Kummerfeld	25495	Dorfstraße	1	+49 4101 71043	+49 431 9886449822	Kummerfeld.PSt@polizei.landsh.de		9.791455507509944	53.69287216175267
+9096763	Polizeistation Langenhorn	Langenhorn	25842	Marktstraat	12	+49 4672 510	+49 4672 777623			8.910123777417226	54.67197034173513
+9096776	Polizeistation Leezen	Leezen	23816	Raiffeisenstraße	6	+49 4552 3439910	+49 4552 34399119	Leezen.PSt@polizei.land.sh		10.24775195961813	53.86408407883512
+9096791	Polizeistation Lensahn	Lensahn	23738	Lübecker Straße	19	+49 4363 7939830	+49 4363 79398319	Lensahn.PSt@polizei.landsh.de		10.885587026114264	54.220435503499964
+9096817	Polizeistation Malente	Malente	23714	Kampstraße	14	+49 4523 20178-0	+49 4523 20178-19	malente.pst@polizei.landsh.de		10.557737598557129	54.170990436413845
+9096845	Polizeistation Mettenhof	Kiel	24114	Skandinaviendamm	251	+49 431 160-1372	+49 431 160-1399	Mettenhof.PSt@polizei.landsh.de		10.05738787873588	54.32570820182378
+9096871	Polizeistation Moisling	Lübeck, Hansestadt	23560	Niendorfer Straße	15	+49 451 1317430	+49 431 9886446744	moisling.pst@polizei.landsh.de		10.701509762886076	53.80533797736232
+9096886	Polizeistation Molfsee	Molfsee	24113	Hamburger Chaussee	25	+49 4347 90296830	+49 4347 90296839	Molfsee.PSt@polizei.landsh.de		10.066097320107447	54.26510718090074
+9096914	Polizeistation Mürwik/Fruerlund	Flensburg	24944	Fichtestraße	2	+49 461 484-4220	+49 431 9886442723	Flensburg-Muerwikfruerlund.PSt@polizei.landsh.de		9.456965303579594	54.80220644985759
+9096927	Polizeistation Nebel auf Amrum	Nebel	25946	Sanghughwai	12 a	+49 4682 7189970	+49 431 9886443871	Nebel.PSt@polizei.landsh.de		8.344441636293954	54.64872988532782
+9096940	Polizeistation Neukirchen	Neukirchen (Ostholstein)	23779	Dorfstraße	24	+49 4664 410	+49 4664 983276			11.01482237475051	54.322379608899254
+9096953	Polizeistation Norderstedt-Ost	Norderstedt	22850	Poppenbütteler Straße	178	+49 40 23462150	+49 40 234621519	Norderstedt-Ost.Pst@polizei.landsh.de		10.035711336713696	53.688789475930555
+9096966	Polizeistation Norderstedt-Mitte	Norderstedt	22846	Rathausallee	78	+49 40 535362-0	+49 40 535362-33	Norderstedt-Mitte.PSt@polizei.landsh.de		9.990684590235505	53.708172786323736
+9096992	Polizeistation Flensburg Nord	Flensburg	24937	Neustadt	30	+49 461 484-4270	+49 431 9886442727	Flensburg-Nord.PSt@polizei.landsh.de		9.41402884551227	54.798806407335384
+9097018	Polizeistation Nusse	Nusse	23896	Klingenberg	7	+49 4543 435980	+49 4543 4359819	Nusse.PSt@polizei.landsh.de		10.57679711623636	53.65453658689331
+9097057	Polizeistation Osterrönfeld	Osterrönfeld	24783	Wehrautal	2	+49 4331 3322630	+49 4331 33226319	Osterroenfeld.PSt@polizei.landsh.de		9.691768731213212	54.28944098240752
+9097083	Polizeistation Oststeinbek	Oststeinbek	22113	Möllner Landstraße	59	+49 40 3503133-0	+49 431 9886448872	Oststeinbek.PSt@polizei.landsh.de		10.169335995907101	53.53996366851345
+9097096	Polizeistation Owschlag	Owschlag	24811	An der Post	2	04336 2919850	+49 4336 29198519	Owschlag.PSt@polizei.landsh.de		9.59080983374232	54.39274682784183
+9097109	Polizeistation Pellworm	Pellworm	25849	Uthlandestraße	1	+49 4844 310	+49 431 9886443836	Pellworm.PSt@polizei.landsh.de		8.68400992864761	54.52034001831798
+9097146	Polizeistation Quickborn	Quickborn (Pinneberg)	25451	Ernst-Abbe-Straße	10	+49 4106 6300-0	+49 4106 6300-108	Quickborn.PST@polizei.landsh.de		9.932812367039517	53.74836691940194
+9097174	Polizeistation Ratekau	Ratekau	23626	Bäderstraße	36	+49 4504 708888-0	+49 431 9886446871	Ratekau.PSt@polizei.landsh.de		10.733369384571793	53.94621870645967
+9097187	Polizeistation Reinfeld (Holstein)	Reinfeld (Holstein)	23858	Barnitzer Straße	10	+49 4533 793400	+49 4533 791719	Reinfeld.PSt@polizei.landsh.de		10.490470450688415	53.83598920040786
+9097200	Polizeistation Rickling	Rickling	24635	Dorfstraße	35 a	+49 4328 4299930	+49 4328 42999319	Rickling.PSt@polizei.landsh.de		10.163499802067086	54.00810843511393
+9097213	Polizeistation Rieseby	Rieseby	24354	Dorfstraße	13	+49 4355 510	+49 4355 999601	Rieseby.PSt@polizei.landsh.de		9.81852410111956	54.54217302058898
+9097252	Polizeistation Sandesneben	Sandesneben	23898	Am Amtsgraben	4	+49 4536 152227	+49 4536 808650	Sandesneben.PSt@polizei.landsh.de		10.482392368601815	53.68509555626345
+9097291	Polizeistation Sankt Peter-Ording	Sankt Peter-Ording	25826	Deichgrafenweg	4	+49 4863 9589160	+49 431 9886443811	St.Peter-Ording@polizei.landsh.de		8.626401824015009	54.30717198564567
+9097304	Polizeistation Mittelangeln (Satrup)	Mittelangeln	24986	Flensburger Straße	6	+49 4633 351133	+49 431 9886442843	Mittelangeln.PSt@polizei.landsh.de		9.60404067205034	54.690880798257695
+9097330	Polizeistation Schafflund	Schafflund	24980	Tannenweg	1	+49 4639 362990-0	+49 431 9886442852	Schafflund.PSt@polizei.landsh.de		9.188337081063203	54.757302944023095
+9097343	Polizeistation Scharbeutz	Scharbeutz	23684	Kammerweg	36	+49 4503 357219	+49 4503 357220	Scharbeutz.PSt@polizei.landsh.de		10.754452158690476	54.016420827594416
+9097356	Polizeistation Schenefeld (Krs Pinneberg)	Schenefeld	22869	Kiebitzweg	22	+49 040 8300053-0	+49 040 8300053-30	SchenefeldPbg.PSt@polizei.landsh.de		9.836457201619446	53.60428288958772
+9097369	Polizeistation Schilksee	Kiel	24159	Langenfelde	123 c	+49 431 372363	+49 431 3003992	Schilksee.PSt@polizei.landsh.de		10.171755530923365	54.416825644678724
+9097382	Polizeistation Schlutup	Lübeck, Hansestadt	23566	Mecklenburger Straße	37 - 43	+49 451 1317330	+49 431 9886446733	schlutup.pst@polizei.landsh.de		10.799024361992526	53.887936113973545
+9097397	Polizeistation Schönkirchen	Schönkirchen	24232	Dorfstraße	1	+49 4348 2154900	+49 4348 21549019	Schönkirchen.PSt@polizei.landsh.de		10.223050051754058	54.33893002206748
+9097410	Polizeistation Schönwalde am Bungsberg.	Schönwalde am Bungsberg	23744	Eutiner Straße	6	+49 4528 510	+49 4528 913995	Schoenwalde.PSt@polizei.landsh.de		10.752996498678153	54.1870345901581
+9097436	Polizeistation Schwedeneck	Schwedeneck	24229	Alte Dorfstraße	31	+49 4308 410	+49 4308 183909	Schwedeneck.PSt@polizei.landsh.de		10.075504720107917	54.474681938210914
+9097449	Polizeistation Seedorf	Seedorf (Segeberg)	23823	Berliner Straße	36	+49 4555 410	+49 4555 410	Seedorf.PSt@polizei.landsh.de		10.40110742655615	54.039653320955246
+9097488	Polizeistation Silberstedt	Silberstedt	24887	Hauptstraße	41	+49 4626 4049920	+49 431 9886442821	Silberstedt.PSt@polizei.landsh.de		9.369078520780343	54.51804552848752
+9097514	Polizeistation Steinbergkirche	Steinbergkirche	24972	Nordstraße	1	+49 4632 8761680	+49 431 988644-2864	Steinbergkirche.PSt@polizei.landsh.de		9.760555609737896	54.75470433781009
+9097527	Polizeistation Steinburg	Steinburg	22964	Eichedeer Straße	26	+49 4534 510	+49 4534 204505			10.391577081414349	53.70574324929464
+9097553	Polizeistation Gudow-Sterley	Sterley	23883	Alte Dorfstraße	22	+49 4545 310	+49 4545 789766			10.819000111497417	53.620558590725146
+9097566	Polizeistation Stockelsdorf	Stockelsdorf	23617	Ahrensböker Straße	7 a	+49 451 498560	+49 451 4985620	Stockelsdorf.pst@polizei.landsh.de		10.651261178006589	53.8869308900938
+9097594	Polizeistation Suchsdorf	Kiel	24107	Eckernförder Straße	425	+49 431 1601190	+49 431 1601196	Suchsdorf.PSt@polizei.landsh.de		10.082715665751778	54.35755288444286
+9097607	Polizeistation Süderbrarup	Süderbrarup	24392	Team-Allee	26	+49 4641 4809830	+49 4641 480983-19	Suederbrarup.PSt@polizei.landsh.de		9.778130954245208	54.638243511934434
+9097633	Polizeistation Flensburg Mitte	Flensburg	24937	Große Straße	16	+49 461 4844240	+49 431 9886442722	Flensburg-Mitte.PSt@polizei.landsh.de		9.442380604206546	54.783038299082754
+9097646	Polizeistation Süsel	Süsel	23701	An der Bäderstraße	36 - 38	+49 4524 730991-0	+49 4524 73099119	Suesel.PSt@polizei.landsh.de		10.71113610527689	54.079289162137684
+9097672	Polizeistation Tangstedt	Tangstedt (Stormarn)	22889	Wassermühlenweg	12	+49 4109 2049950	+49 4109 20499519	Tangstedt.PSt@polizei.landsh.de		10.089349106866473	53.7335440652044
+9097685	Polizeistation Tellingstedt	Tellingstedt	25782	Teichstraße	1	+49 4838 2049910	+49 4838 20499119	Tellingstedt.PSt@polizei.landsh.de		9.278300933342946	54.21908673928032
+9097726	Polizeistation Trappenkamp	Trappenkamp	24610	Am Markt	28	+49 4323 805270	+49 4323 8052719	Trappenkamp.PSt@polizei.landsh.de		10.2192444606985	54.03725862912621
+9097741	Polizeistation Travemünde	Lübeck, Hansestadt	23570	Moorredder	1	+49 4502 86343-0	+49 4502 8634348	travemuende.pst@polizei.landsh.de		10.860404605268926	53.9626351486287
+9097756	Polizeistation Trittau	Trittau	22946	Rausdorfer Straße	29	+49 4154 7073-0	+49 4154 7073-19	Trittau.PSt@polizei.landsh.de		10.405479036371304	53.60593541461196
+9097769	Polizeistation Neumünster-Nord, Zweigstelle Tungendorf	Neumünster	24536	Hürsland	2	+49 4321 301924	+49 4321 301941	nms-nord.PSt@polizei.landsh.de		9.99659881210991	54.09238241869231
+9097782	Polizeistation Uetersen	Uetersen	25436	Marktstraße	34	+49 4122 7053-0	+49 4122 705330	Uetersen.PSt@polizei.landsh.de		9.659587601588592	53.68365621012051
+9097797	Polizeistation Viöl	Viöl	25884	Westerende	41	+49 4843 2044990	+49 431 9886443833	Vioel.PSt@polizei.landsh.de		9.1795594292967	54.56875510627631
+9097871	Polizeistation Weiche	Flensburg	24941	Ochsenweg	32	+49 461 9987540-0	+49 461 9987540-19	Flensburg-Weiche.PSt@polizei.landsh.de		9.400290349400837	54.75761860007495
+9097884	Polizeistation Wellenkamp	Itzehoe	25524	Lübscher Kamp	2	+49 4821 6025400	+49 4821 6025419	Wellenkamp.PSt@polizei.landsh.de		9.482778	53.907756
+9097910	Polizeistation Wensin	Wensin	23827	Kirchweg	1	+49 4559 310	+49 4559 310	Wensin.PSt@polizei.landsh.de		10.415958621587349	53.99906747155772
+9097923	Polizeistation Wentorf bei Hamburg	Wentorf bei Hamburg	21465	Südring	26	+49 40 55820195-0	+49 40 55820195-19	Wentorf.PSt@polizei.landsh.de		10.257038992721528	53.48696526604
+9097936	Polizeistation Wesselburen	Wesselburen	25764	Wulf-Isebrand-Straße	1b	+49 4833 448976	+49 4833 4489777	Wesselburen.PSt@polizei.landsh.de		8.924953454130415	54.21227919755141
+9097975	Polizeistation Wik	Kiel	24106	Wiker Straße	53	+49 431 160-1152	+49 431 160-1169	Wik.PSt@polizei.landsh.de		10.132555826673949	54.35623420519531
+9097988	Polizeistation Wittorf	Neumünster	24539	Mühlenstraße	16	+49 4321 7079946	+49 4321 7079948	Wittorf.PSt@polizei.landsh.de		9.96858252499005	54.05389672545445
+9098027	Landespolizeiamt	Kiel	24116	Mühlenweg	166	+49 431 160-0	+49 431 160-5123	STK.Kiel.LPA@polizei.landsh.de		10.10685814821424	54.33198962849225
+9098042	Bezirkskriminalinspektion Flensburg	Flensburg	24937	Norderhofenden	1	+49 461 484-0	+49 431 9886442400	Flensburg.BKI@polizei.landsh.de		9.436241902930112	54.78728004688673
+9098055	Bezirkskriminalinspektion Itzehoe	Itzehoe	25524	Große Paaschburg	66	+49 4821 602-0	+49 4821 602-5319	Itzhoe.BKI@polizei.landsh.de		9.523770928121149	53.92036429481577
+9098070	Bezirkskriminalinspektion Kiel	Kiel	24103	Blumenstraße	2 - 4	+49 431 160-0	+49 431 160-3209	Kiel.BKI@polizei.landsh.de		10.130254903962124	54.32691369616649
+9098085	Bezirkskriminalinspektion Lübeck	Lübeck, Hansestadt	23560	Possehlstraße	4	+49 451 131-3050	+49 451 131-1019	luebeck.bki@polizei.landsh.de		10.680856458798626	53.85256360437036
+9098100	1. Polizeirevier Flensburg	Flensburg	24937	Norderhofenden	1	+49 461 484-0	+49 431 988644-2710	Flensburg.PRev01@polizei.landsh.de		9.436241902930112	54.78728004688673
+9098548	Polizeistation Hüxtertor	Lübeck, Hansestadt	23564	Wakenitzstraße	34g	+49 451 1317460	+49 431 9886446742	luebeck.pst-hx@polizei.landsh.de		10.699122679127363	53.859292296569656
+9098738	LPA Abt. 4, (WSP)	Kiel	24116	Mühlenweg	166	+49 431 16064115	+49 431 16064119	kiel.lpa@polizei.landsh.de		10.10685814821424	54.33198962849225
+9098753	Wasserschutzpolizeirevier Brunsbüttel	Brunsbüttel	25541	Koogstraße	97	+49 4852 900-0	+49 4852 900-19	brunsbuettel.wsprv@polizei.landsh.de		9.1431530365014	53.89414710101721
+9098768	Wasserschutzpolizeistation Flensburg	Flensburg	24939	Schiffbrücke	66	+49 461 484-6310	+49 461 484-6390	flensburg.wspst@polizei.landsh.de		9.431455762571954	54.79557619215723
+9098783	Wasserschutzpolizeirstation Husum	Husum	25813	Am Außenhafen		+49 4841 830660	+49 4841 830668	husum.wspst@polizei.landsh.de		9.03290212	54.4730115
+9098798	Wasserschutzpolizeirevier Kiel	Kiel	24105	Arwed-Emminghaus-Weg	11	+49 431 160-1660	+49 431 160-1609	kiel.wsprv@polizei.landsh.de		10.154906701557179	54.33565987792664
+9098813	Wasserschutzpolizeirevier Lübeck-Travemünde	Lübeck, Hansestadt	23570	Am Leuchtenfeld		+49 4502 862830	+49 4502 8628348	travemuende.WSPR@polizei.landsh.de		10.8831918	53.96058
+9098858	Wasserschutzpolizeistation Helgoland	Helgoland	27498	Hafenstraße	2	+49 4725 8008540	+49 4725 80085430	helgoland.wspst@polizei.landsh.de		7.89176	54.176359
+9098888	Wasserschutzpolizeistation Kappeln	Kappeln	24376	Gerichtsstraße	1	+49 4642 96559-02	+49 4642 96559-229	kappeln.wspst@polizei.landsh.de		9.926609172601362	54.661687449288166
+9098903	Wasserschutzpolizeistation Fehmarn	Puttgarden	23769	Am Fährhafen		+49 4371 5030853	+49 4371 5030859	puttgarden.wspst@polizei.landsh.de		11.2259459	54.5036544
+9099118	Polizeistation Hennstedt (Dithmarschen)	Hennstedt (Dithmarschen)	25779	Tellingstedter Straße	8	+49 4836 2559920	+49 4836 25599219	Hennstedt.Pst@polizei.landsh.de		9.171275287567369	54.28352860054993
+9099142	Polizeistation Schenefeld (Steinburg)	Schenefeld	25560	Bahnhofstraße	16 a	+49 4892 89926-0	+49 4892 8992619	Schenefeld.PSt@polizei.landsh.de		9.819346161029841	53.60136455879405
+9099244	1. Polizeirevier Kiel	Kiel	24105	Düppelstraße	23	+49 431 160-1110	+49 431 160-1119	Kiel.Prev01@polizei.landsh.de		10.148349188926597	54.33895513652535
+9099644	1. Polizeirevier Lübeck	Lübeck, Hansestadt	23560	Mengstraße	20	+49 451 131-6145	+49 451 131-6119	luebeck.prev01@polizei.landsh.de		10.684134412515279	53.8684684408158
+9099659	1. Polizeirevier Neumünster	Neumünster	24539	Altonaer Straße	101	+49 4321 945-1111	+49 4321 945-1103	Neumuenster.PRev01@polizei.landsh.de		9.987118065002447	54.07528115120775
+9099700	2. Polizeirevier Flensburg	Flensburg	24937	Norderhofenden	1	+49 461 484-0	+49 431 988644-2720	Flensburg.PRev02@polizei.landsh.de		9.436241902930112	54.78728004688673
+9099726	2. Polizeirevier Kiel	Kiel	24103	Falckstraße	4	+49 431 160-1210	+49 431 160-1219	Kiel.Prev02@polizei.landsh.de		10.139839841353696	54.32422960752982
+9099739	2. Polizeirevier Lübeck	Lübeck, Hansestadt	23558	Hansestraße	22	+49 451 131-6245	+49 451 131-6219	luebeck.prev02@polizei.landsh.de		10.669096908534739	53.86475100029298
+9413046	Polizeibüro Büdelsdorf	Büdelsdorf	24782	Ulmenstraße	4 a	04331 208440		Buedelsdorf.Rendsburg.PR@polizei.landsh.de		9.67044412198545	54.315920088147074
+9413057	Polizeistation	Büdelsdorf	24782	Ulmenstraße	4 a	04331 440-105	04331 440-120	Buedelsdorf.PSt@im.landsh.de		9.67044412198545	54.315920088147074
+9440973	Bundespolizeidirektion Bad Bramstedt	Bad Bramstedt	24576	Raaberg	6	+49-4192 502-0	+49-4192 89 96 98		https://www.bundespolizei.de	9.890725210400538	53.92627788761439
+11857441	Polizeistation Timmendorfer Strand	Timmendorfer Strand	23669	Wohldstraße	24a	+49 4503 40810	+49 4503 408119	Timmendorferstrand.PSt@polizei.landsh.de		8.867012118898538	54.492077165179516
+219938661	Polizei-Autobahn- und Bezirksrevier Nord	Schuby	24850	Lürschau Weg	1	+49 4621 840	+49 4841 830348				
+219938662	Polizeistation Buntekuh	Lübeck, Hansestadt	23558	Karavellenstraße	5a	+49 451 1317200	+49 431 9886446813	buntekuh.pst@polizei.landsh.de			
+234633129	Kriminalpolizeistelle Reinbek	Reinbek	21465	Sophienstraße	5	+49 40 727707-0	+49 40 727707-119	Reinbek.KPSt@polizei.landsh.de			
+234633130	Polizeistation Wankendorf	Wankendorf	24601	Mark	8	04326 6679880	04326 66798819	Wankendorf.PSt@polizei.landsh.de			
+234827670	Polizeistation St. Jürgen	Lübeck, Hansestadt	23560	Alexander-Fleming-Straße	6-12	+49 451 1317430	+49 431 9886446744	St.Juergen.PSt@polizei.landsh.de			
+234827673	Polizeistation Nahe	Nahe	23866	Segeberger Straße	90	04535 4399950	+49 4535 43999519	Nahe.PSt@polizei.landsh.de			
+241259997	Polizeistation Neumünster Nord	Neumünster	24536	Einfelder Straße	59	04321 8775870	04321 87758719	nms-nord.pst@polizei.landsh.de			
+241259998	Polizeistation Neumünster-Südost	Neumünster	24539	Mühlenstaße	16	04321 9452600	0431 9886447712	nms-suedost.pst@polizei.landsh.de			
+241259999	Polizeistation Neumünster-West	Neumünster	24536	Hansaring	122	04321 9451210	04321 9451214	nms-west.pst@polizei.landsh.de			
+241265000	Polizeistation Neumünster-West, Zweigestelle Faldera	Neumünster	24536	Ehndorfer Straße	118	04321 690282	04321 690283	dofaldera.pstwest@polizei.landsh.de			
+258058955	Polizeistation Wellsee	Wellsee	24145	Wellseedamm	16 b	0431 1601480	0431 1601499	Wellsee.pst@polizei.landsh.de			
