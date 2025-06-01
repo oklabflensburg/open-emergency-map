@@ -47,23 +47,31 @@ def connect_database(env_path):
 
 
 def parse_value(value, conversion_func=None):
+    if value is None:
+        return None
+
+    if isinstance(value, str):
+        value = value.strip()
+        if value == '':
+            return None
+
     try:
         return conversion_func(value) if conversion_func else value
-    except ValueError:
+    except (ValueError, TypeError):
         return None
 
 
 def insert_row(cur, row_dict):
     id = parse_value(row_dict.get('id'), int)
-    name = parse_value(row_dict.get('name', '')).strip()
-    city = parse_value(row_dict.get('city', '')).strip()
-    zipcode = parse_value(row_dict.get('zipcode', '')).strip()
-    street = parse_value(row_dict.get('street', '')).strip()
-    house_number = parse_value(row_dict.get('house_number', '')).strip()
-    telephone = parse_value(row_dict.get('telephone', '')).strip()
-    fax = parse_value(row_dict.get('fax', '')).strip()
-    email = parse_value(row_dict.get('email', '')).strip()
-    website = parse_value(row_dict.get('website', '')).strip()
+    name = parse_value(row_dict.get('name', ''))
+    city = parse_value(row_dict.get('city', ''))
+    zipcode = parse_value(row_dict.get('zipcode', ''))
+    street = parse_value(row_dict.get('street', ''))
+    house_number = parse_value(row_dict.get('house_number', ''))
+    telephone = parse_value(row_dict.get('telephone', ''))
+    fax = parse_value(row_dict.get('fax', ''))
+    email = parse_value(row_dict.get('email', ''))
+    website = parse_value(row_dict.get('website', ''))
     longitude = parse_value(row_dict.get('longitude'), float)
     latitude = parse_value(row_dict.get('latitude'), float)
 

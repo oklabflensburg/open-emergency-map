@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS sh_police_station (
   city VARCHAR(255) NOT NULL,
   zipcode VARCHAR(5) NOT NULL,
   street VARCHAR(255) NOT NULL,
-  house_number VARCHAR(10) NOT NULL,
+  house_number VARCHAR(10),
   telephone VARCHAR,
   fax VARCHAR,
   email VARCHAR,
